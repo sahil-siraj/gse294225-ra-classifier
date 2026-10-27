@@ -1,0 +1,12 @@
+# R workspace files
+.RData
+.Rhistory
+.Ruserdata
+
+# Data files
+data/*.csv
+data/*.tsv
+data/*.gz
+
+# Results and figures
+# results/*.csv
